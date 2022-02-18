@@ -1,6 +1,14 @@
 # Open Jam Box 0.1 
 
-Impressions of the process prototyping a 4-track loop station. See [files](/files) for 3D model. Part of **FabAcademy Challenge I**. Software based on [Raspi Looper](https://github.com/RandomVertebrate/raspi-looper) by [RandomVertebrate](https://github.com/RandomVertebrate). All files CC. 
+Impressions of the process prototyping a 4-track loop station. 
+
+Part of [FabAcademy](https://fabacademy.org) Challenge I. 
+
+See [files](/files) for 3D model. 
+
+Software based on [Raspi Looper](https://github.com/RandomVertebrate/raspi-looper) by [RandomVertebrate](https://github.com/RandomVertebrate). 
+
+All files CC. 
 
 ![p1](/images/IMG_3599.jpeg)
 ![p1](/images/IMG_3598.jpeg)
