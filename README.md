@@ -3,11 +3,11 @@
 
 Impressions of building a 4-track loop station. See [files](/files) for the 3D files. Code based on [this project](https://github.com/RandomVertebrate/raspi-looper).
 
-![p1](/images/IMG_3598.jpeg)
 ![p1](/images/IMG_3599.jpeg)
+![p1](/images/IMG_3598.jpeg)
 ![p1](/images/IMG_3600.jpeg)
-![p1](/images/Bildschirmfoto 2022-02-16.png)
-![p1](/images/Bildschirmfoto 2022-02-18.png)
+![p1](/images/Bildschirmfoto-2022-02-16.png)
+![p1](/images/Bildschirmfoto-2022-02-18.png)
 ![p1](/images/IMG_5292.JPG)
 ![p1](/images/IMG_5295.JPG)
 
@@ -16,8 +16,8 @@ Impressions of building a 4-track loop station. See [files](/files) for the 3D f
 
 ![p1](/images/IMG_5314.JPG)
 ![p1](/images/IMG_5326.JPG)
-![p1](/images/Captura de Pantalla 2022-02-18_1.png)
-![p1](/images/Captura de Pantalla 2022-02-18_2.png)
+![p1](/images/Captura-de-Pantalla-2022-02-18_1.png)
+![p1](/images/Captura-de-Pantalla-2022-02-18_2.png)
 ![p1](/images/IMG_5341.JPG)
 ![p1](/images/IMG_5345.JPG)
 ![p1](/images/IMG_5348.JPG)
